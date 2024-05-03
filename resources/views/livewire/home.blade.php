@@ -1,3 +1,3 @@
-<div>
-    {{-- Be like water. --}}
+<div class="bg-blue-400">
+    Home Page
 </div>
